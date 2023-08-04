@@ -4,4 +4,4 @@
 ![homepage](image.png)
 
 ### Description 
-Convert a mockup to html page.
+Convert the blog-mockup.pdf to an html page.
